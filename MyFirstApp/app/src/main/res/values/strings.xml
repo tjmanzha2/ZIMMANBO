@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">My First App</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    <string name="list1">-MENU</string>
+    <string name="list2">APPETIZERS</string>
+    <string name="list3">MAIN</string>
+    <string name="list4">DESSERT</string>
+    <string name="list5">SALAD</string>
+    <string name="list6">WINE</string>
+    <string name="list7">WHISKEY</string>
 </resources>
