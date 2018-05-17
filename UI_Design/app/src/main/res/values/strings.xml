@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UI_Design</string>
+    <string name="to_sign_in">Sign in</string>
+    <string name="to_sign_up">Sign up</string>
+</resources>
