@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZIMMANBO</string>
+
+    <string name="facebook_app_id">217487065766152</string>
+    <string name="fb_login_protocol_scheme">fb217487065766152</string>
+
+</resources>

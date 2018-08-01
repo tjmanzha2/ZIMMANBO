@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "835285939958",
+    "firebase_url": "https://zimmanbo.firebaseio.com",
+    "project_id": "zimmanbo",
+    "storage_bucket": "zimmanbo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835285939958:android:694db63a484329d7",
+        "android_client_info": {
+          "package_name": "com.awake.zimmmanbo.zimmanbo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835285939958-36t8olb0s40dnrvpvpim9vdgnkk53sgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awake.zimmmanbo.zimmanbo",
+            "certificate_hash": "364239d162187ca7bdcbf32ce1a4895e238aa77c"
+          }
+        },
+        {
+          "client_id": "835285939958-4tiffkdbkpt6d5i82ts03528ali5foc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRCB82luQ6SK_LcaYz10XwD5FEuO0Csao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835285939958-4tiffkdbkpt6d5i82ts03528ali5foc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
